@@ -1,0 +1,71 @@
+#time
+
+{
+"nomeDoTime":"Time 1"
+}
+
+#aldeia
+
+{
+"nome":"aldeia 1"
+}
+
+#pessoa
+
+{
+	"nome": "Claudio",
+	"peso" : 80,
+	"altura": 1.88,
+	"funcao": "Operador"
+	}
+	
+#ninja
+	
+	{
+	"nomeCla" : "Cla 1",
+	"nomeVila" : "Vila 1",
+	"nivel": 1,
+	"nome": "Claudio",
+	"peso" : 80,
+	"altura": 1.88,
+	"funcao": "Operador"
+	}
+
+
+#array 
+{"pessoas": [
+	{
+	"nome": "Claudio",
+	"peso" : 80,
+	"altura": 1.88,
+	"funcao": "Operador"
+	},
+	{
+	"nome": "Severina",
+	"peso" : 60,
+	"altura": 1.57,
+	"funcao": "Mãe"
+	}]
+}
+
+{"ninjas": [
+	{
+	"nomeCla" : "Cla 1",
+	"nomeVila" : "Vila 1",
+	"nivel": 1,
+	"nome": "Claudio",
+	"peso" : 80,
+	"altura": 1.88,
+	"funcao": "Operador"
+	},
+	{
+	"nomeCla" : "Cla 2",
+	"nomeVila" : "Vila 1",
+	"nivel": 1,
+	"nome": "Severina",
+	"peso" : 60,
+	"altura": 1.57,
+	"funcao": "Mãe"
+}]
+}
+
